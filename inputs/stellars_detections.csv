@@ -1,0 +1,35 @@
+tcode,score,comments
+t1187,10,Potential PetitPotam Attack Via EFS RPC Calls
+t1557.001,10,Potential PetitPotam Attack Via EFS RPC Calls
+t1547.004,10,MITRE BZAR Indicators for Persistence
+t1558.003,10,Kerberos Network Traffic RC4 Ticket Encryption
+t1021.002,10,Suspicious PsExec Execution - Zeek
+t1070.002,10,Clear Linux Logs
+t1190,10,Apache Spark Shell Command Injection - ProcessCreation
+t1562.001,10,ESXi Syslog Configuration Change Via ESXCLI
+t1562.003,10,ESXi Syslog Configuration Change Via ESXCLI
+t1083,10,File and Directory Discovery - Linux
+t1562.004,10,Flush Iptables Ufw Chain
+t1082,10,Potential GobRAT File Discovery Via Grep
+t1059,10,Shell Invocation Via Ssh - Linux
+t1593.003,10,Suspicious Git Clone - Linux
+t1105,10,Download File To Potentially Suspicious Directory Via Wget
+t1564.002,10,Hidden User Creation (Mac OS)
+t1113,10,Screen Capture - macOS
+t1553.001,10,Gatekeeper Bypass via Xattr
+t1012,10,Azure AD Health Service Agents Registry Keys Access
+t1070.001,10,Security Eventlog Cleared (Windows)
+t1003.002,10,Possible Impacket SecretDump Remote Activity
+t1027,10,Invoke-Obfuscation CLIP+ Launcher - Security
+t1059.001,10,Invoke-Obfuscation CLIP+ Launcher - Security
+t1558.003,10,Kerberoasting Activity - Initial Query (Windows)
+t1003.001,10,LSASS Access From Non System Account (Windows)
+t1021.002,10,Metasploit Or Impacket Service Installation Via SMB PsExec
+t1570,10,Metasploit Or Impacket Service Installation Via SMB PsExec
+t1569.002,10,Metasploit Or Impacket Service Installation Via SMB PsExec
+t1569.002,10,PowerShell Scripts Installed as Services - Security (Windows)
+t1543,10,Service Installed By Unusual Client - Security (Windows)
+t1558.003,10,Uncommon Outbound Kerberos Connection - Security (Windows)
+t1027,10,Password Protected ZIP File Opened (Suspicious Filenames)(Windows)
+t1105,10,Password Protected ZIP File Opened (Suspicious Filenames)(Windows)
+t1036,10,Password Protected ZIP File Opened (Suspicious Filenames)(Windows)
