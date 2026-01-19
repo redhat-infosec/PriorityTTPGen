@@ -2,7 +2,7 @@
 
 
 
-![Raleigh Space Systems team Logo](/home/kswagler/Programs/gitlab/ti/PttPGen_Github2/outputs/RSS_Logo.png "Raleigh Space Systems team Logo")
+![Raleigh Space Systems team Logo](RSS_Logo.png "Raleigh Space Systems team Logo")
 
 
 [TLP](https://www.first.org/tlp/): Amber+Strict
